@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anuragchaubey05.github.io/Anurag_Portfolio/index.html](https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)
 
-- 📫 How to reach me **anuragchaubey86@gmail.com**
+- 📫 How to reach me **chaubeyanurag86@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link](https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)
 

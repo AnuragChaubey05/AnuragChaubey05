@@ -7,12 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchaubey05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchaubey05" /> </p>
 
 - 🌱 I’m currently learning **Full stack development**
-
-- 👨‍💻 All of my projects are available at <a href="(https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)"> here</a> 
-
-- 📫 How to reach me **chaubeyanurag86@gmail.com**
-
-- 🧑‍💻 Checkout my <a href="(https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)">Resume</a>
+- 🖥️ See my portfolio at [here](https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)
+- 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)
+- - 📫 How to reach me **chaubeyanurag86@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

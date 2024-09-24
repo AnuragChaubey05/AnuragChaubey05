@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchaubey05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchaubey05" /> </p>
 
-<div align="center">
+<div>
 - 🌱 I’m currently learning **Full stack development**
 - 🖥️ See my portfolio at [here](https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)
 - 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)
 - 📫 How to reach me **chaubeyanurag86@gmail.com**
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" height="100px"/> 
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" height="100px" align="right" /> 
 </div>
 
 

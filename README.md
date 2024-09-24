@@ -4,15 +4,16 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" 
-         style="border-radius:10px;  box-shadow:0 4px 8px rgba(0, 0, 0, 0.1); height:200px;"  align="right"/>
+         style="border-radius:10px;  box-shadow:0 4px 8px rgba(0, 0, 0, 0.1); height:190px;" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchaubey05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchaubey05" /> </p>
       
 - 🌱 I’m currently learning **Full stack development**
   
 - 🖥️ See my portfolio [here](https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)
+  
 - 🧑‍💻 Check out my [Resume](https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)
+  
 - 📫 How to reach me: **chaubeyanurag86@gmail.com**
-
 
 ---
 

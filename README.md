@@ -9,7 +9,10 @@
 - 🌱 I’m currently learning **Full stack development**
 - 🖥️ See my portfolio at [here](https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)
 - 🧑‍💻 Checkout my [Resume](https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)
-- - 📫 How to reach me **chaubeyanurag86@gmail.com**
+- 📫 How to reach me **chaubeyanurag86@gmail.com**
+
+| <a href="https://github.com/anuragchaubey05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragchaubey05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuragchaubey05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragchaubey05&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -20,7 +20,7 @@
    </div>
 
    <!-- Right section with image -->
-   <div style="flex: 1; text-align: right;">
+   <div style="flex: 1; align-items: right;">
       <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" height="200px" style="border-radius: 10px; margin-top:10px; margin-left: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
    </div>
 

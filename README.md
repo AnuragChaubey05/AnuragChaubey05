@@ -1,15 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anurag Chaubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+   <h1>Hi there, I'm Anurag Chaubey</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragchaubey05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragchaubey05" /> </p>
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://anuragchaubey05.github.io/Anurag_Portfolio/index.html](https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)
+- 👨‍💻 All of my projects are available at <a href="(https://anuragchaubey05.github.io/Anurag_Portfolio/index.html)"> here</a> 
 
 - 📫 How to reach me **chaubeyanurag86@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link](https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)
+- 🧑‍💻 Checkout my <a href="(https://drive.google.com/file/d/13Ei28iYwzx6F2ymuNF1zVrkhe8aMsx6b/view?usp=drive_link)">Resume</a>
 
 
 <h3 align="left">Languages and Tools:</h3>

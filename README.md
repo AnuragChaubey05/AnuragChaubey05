@@ -23,7 +23,7 @@
    <!-- Right section with image -->
    <div style="flex: 1; text-align: right; min-width: 250px;">
       <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif" 
-         style="border-radius: 10px; margin-top: 10px; margin-right: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 100%; height: 200px;" />
+         style="border-radius: 10px; margin-top: 10px; margin-right: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); height: 200px;" />
    </div>
 </div>
 
